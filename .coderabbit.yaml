@@ -1,0 +1,12 @@
+reviews:
+  profile: assertive
+  auto_review:
+    enabled: true
+  tools:
+    eslint:
+      enabled: true
+    biome:
+      enabled: true
+knowledge_base:
+  web_search:
+    enabled: true
